@@ -1,4 +1,4 @@
-# Neovim config
+# Neovim configuration
 
 ## Requirements
 
@@ -13,5 +13,5 @@ ln -s $(pwd)/.vimrc ~/.vimrc
 ~~~
 
 ~~~sh
-nvim .vim/plugins # Exec :PlugInstall
+nvim .vim/plugins.vim # Exec :PlugInstall
 ~~~
